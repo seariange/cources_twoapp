@@ -20,5 +20,6 @@ public class Start {
 
         //System.out.println(a + " + " + b + " = " + sum);
         System.out.println(arr[0] + "+" + arr[1]+ "+" + arr[3]);
+
     }
 }
