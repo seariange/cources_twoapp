@@ -23,7 +23,7 @@ public class Start1 {
         //тип данных double, по этому для указания на тип float используют f - в конце числа
         double d = 3.5; //значение от бесконечности до бесконечности
 
-        //System.out.println(ch2);
+        System.out.println(ch2);
 
     }
 }
