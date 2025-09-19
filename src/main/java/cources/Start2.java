@@ -7,7 +7,7 @@ public class Start2 {
         //int num = sum(2,3);
         //System.out.println(num);
         //sum2(2,6); //вызов void - ничего не возвращаем
-        helloName("Alex");
+        //helloName("Alex");
         System.out.println(isLowerCase('Q'));
         System.out.println(toUpperCase('a'));
 
